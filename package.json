@@ -2,7 +2,7 @@
   "name": "solarlog-enerest",
   "version": "1.0.0",
   "description": "NodeJS API for interacting with the online Solar-Log WEB Enerest platform",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "author": "",
   "type": "module",
   "main": "src/index.js",
