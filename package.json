@@ -1,0 +1,12 @@
+{
+  "name": "solarlog-enerest",
+  "version": "1.0.0",
+  "description": "NodeJS API for interacting with the online Solar-Log WEB Enerest platform",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
