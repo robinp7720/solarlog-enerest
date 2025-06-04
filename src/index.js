@@ -1,5 +1,4 @@
 import Axios from 'axios';
-import 'dotenv/config';
 
 export default class SolarLogOnline {
     constructor(portal, {
